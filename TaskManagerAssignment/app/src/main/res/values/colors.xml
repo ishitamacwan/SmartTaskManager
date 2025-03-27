@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3A49F9</color>
+    <color name="colorPrimaryVariant">#3A49F9</color>
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Text color on Primary -->
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_text">#FFFFFFFF</color>
+    <color name="dark_white">#F2F5FF</color>
+    <color name="dark_blue">#2E3A59</color>
+    <color name="light_grey">#E5EAFC</color>
+    <color name="grey">#BFC8E8</color>
+    <color name="dark_grey">#A9A9A9</color>
+    <color name="blue">#3A49F9</color>
+    <color name="priority_low">#4CAF50</color> <!-- Green -->
+    <color name="priority_medium">#FFC107</color> <!-- Amber -->
+    <color name="priority_high">#F44336</color> <!-- Red -->
+    <color name="light_green">#D4EDDA</color>
+    <color name="dark_green">#155724</color>
+
+    <color name="light_yellow">#FFF3CD</color>
+    <color name="dark_yellow">#856404</color>
+
+    <color name="light_red">#F8D7DA</color>
+    <color name="dark_red">#721C24</color>
+    <color name="light_purple">#C3B1E1</color>
+    <color name="dark_purple">#301934</color>
+
+</resources>

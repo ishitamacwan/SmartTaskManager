@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_text">#FFFFFFFF</color>
+    <color name="black">#FFFFFFFF</color> <!-- White (For Text on Dark BG) -->
+    <color name="white">#121212</color> <!-- Dark Background -->
+    <color name="dark_white">#1E1E1E</color> <!-- Darker Shade for Cards -->
+    <color name="dark_blue">#90A4AE</color> <!-- Light Blue-Grey for Text -->
+    <color name="light_grey">#2E3A59</color> <!-- Dark Blue-Grey -->
+    <color name="grey">#37474F</color> <!-- Medium Grey for Borders -->
+</resources>
