@@ -66,7 +66,7 @@ Sort tasks by:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ishitamacwan/TaskManagerAndroid.git
+   git clone https://github.com/ishitamacwan/SmartTaskManager.git
    ```
 
 2. **Open in Android Studio**
